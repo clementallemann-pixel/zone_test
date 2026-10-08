@@ -1,0 +1,9 @@
+{
+  "name": "Zone test",
+  "short_name": "Zone test",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#101524",
+  "theme_color": "#101524",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
